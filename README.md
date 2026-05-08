@@ -28,5 +28,4 @@ npm install && npm start
 
 Frontend: http://localhost:3000
 
-## License
-MIT — Kenza Nabaghi
+
